@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.indiana.soic.dsc.spidal</groupId>
+  <artifactId>mbf2java</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150221194346</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.indiana.soic.dsc.spidal</groupId>
+  <artifactId>biojava-wrapper</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150221194231</lastUpdated>
+  </versioning>
+</metadata>
